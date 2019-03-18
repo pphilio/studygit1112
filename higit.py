@@ -1,1 +1,1 @@
-print("Hi,GGGGGGgggggggGGGGggGGGggggGGGGGGGgggggGGit!")
+print("Hi,GGGGGGgggggggGGGGggGGgggggGGit!")
